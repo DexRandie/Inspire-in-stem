@@ -2,7 +2,9 @@
 
 
 #volume of a cube
-
+length = input("enter the length of a cube")
+volume = int(length) * int(length) * int(length)
+print("Volume of the Cube is " + str(volume))
 # let type input 
 
 radius = input("enter the radius of a circle")
