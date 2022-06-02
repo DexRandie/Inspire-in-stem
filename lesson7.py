@@ -14,10 +14,10 @@ motorcycle_owner = "flora"
 #del plate_number[0]
 #del plate_number[1]
 #print("i want " + str(motorcycle) + " which is " + str(plate_numbe
-motorcycle.remove('njamps')
-print(motorcycle)
+#motorcycle.remove('njamps')
+#print(motorcycle)
 
-print("iam " ,(motorcycle_owner) , " owning a ", (motorcycle[0]) , " which is " , (plate_number[0]))
+#print("iam " ,(motorcycle_owner) , " owning a ", (motorcycle[0]) , " which is " , (plate_number[0]))
 
 
 

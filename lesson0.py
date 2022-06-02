@@ -1,2 +1,2 @@
-# getting user input
-f_game
+# getting user information
+for num in range[1-100]

@@ -6,7 +6,17 @@
 add link to python download
 https://www.python.org/downloads
 
+add link to vs code 
+https://stackoverflow.com/
 
+stings
+    replace()
+    strip()
+    lower()
+    Upper()
+    len()
+    slice()
+    format()
 # week 2 : Electronics for inovaters
 
 
